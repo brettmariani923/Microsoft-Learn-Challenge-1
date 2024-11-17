@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-foreach-if-array-CSharp-main", "Challenge-project-foreach-if-array-CSharp-main", "{04BF7E49-3EFF-4903-8C76-893EFCEB18FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{7E206778-7ED8-44ED-9D5E-56EC4AB919E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Final\Final.csproj", "{7555FDFD-38A3-4F46-8CEF-48A53AF05721}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{6D4603DC-CCD0-4D49-9CAE-4246783B04A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7555FDFD-38A3-4F46-8CEF-48A53AF05721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7555FDFD-38A3-4F46-8CEF-48A53AF05721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7555FDFD-38A3-4F46-8CEF-48A53AF05721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7555FDFD-38A3-4F46-8CEF-48A53AF05721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4603DC-CCD0-4D49-9CAE-4246783B04A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4603DC-CCD0-4D49-9CAE-4246783B04A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4603DC-CCD0-4D49-9CAE-4246783B04A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4603DC-CCD0-4D49-9CAE-4246783B04A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E206778-7ED8-44ED-9D5E-56EC4AB919E2} = {04BF7E49-3EFF-4903-8C76-893EFCEB18FF}
+		{7555FDFD-38A3-4F46-8CEF-48A53AF05721} = {7E206778-7ED8-44ED-9D5E-56EC4AB919E2}
+		{6D4603DC-CCD0-4D49-9CAE-4246783B04A9} = {7E206778-7ED8-44ED-9D5E-56EC4AB919E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD621826-2597-4E41-9E6C-D7941F4E047A}
+	EndGlobalSection
+EndGlobal
